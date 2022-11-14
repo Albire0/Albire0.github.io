@@ -1,7 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - 我的全新 Hugo 网站</title>
-        <link>https://Albire0.github.io/categories/</link>
-        <description>Categories - Category - 我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://Albire0.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
+        <title>Categories - Category - Albire0的博客</title>
+        <link>https://albire0.github.io/categories/</link>
+        <description>Categories - Category - Albire0的博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>chcocastne@gmail.com (Albire0)</managingEditor>
+            <webMaster>chcocastne@gmail.com (Albire0)</webMaster><lastBuildDate>Sun, 13 Nov 2022 21:14:22 &#43;0800</lastBuildDate><atom:link href="https://albire0.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>“机器学习”</title>
+    <link>https://albire0.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+    <pubDate>Sun, 13 Nov 2022 21:14:22 &#43;0800</pubDate>
+    <author>Albire0</author>
+    <guid>https://albire0.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>

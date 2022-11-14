@@ -1,7 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - 我的全新 Hugo 网站</title>
-        <link>https://Albire0.github.io/tags/</link>
-        <description>Tags - Tag - 我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://Albire0.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+        <title>Tags - Tag - Albire0的博客</title>
+        <link>https://albire0.github.io/tags/</link>
+        <description>Tags - Tag - Albire0的博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>chcocastne@gmail.com (Albire0)</managingEditor>
+            <webMaster>chcocastne@gmail.com (Albire0)</webMaster><lastBuildDate>Sun, 13 Nov 2022 21:14:22 &#43;0800</lastBuildDate><atom:link href="https://albire0.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>NLP</title>
+    <link>https://albire0.github.io/tags/nlp/</link>
+    <pubDate>Sun, 13 Nov 2022 21:14:22 &#43;0800</pubDate>
+    <author>Albire0</author>
+    <guid>https://albire0.github.io/tags/nlp/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
