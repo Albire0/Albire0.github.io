@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 我的全新 Hugo 网站</title>
-    <link>https://Albire0.github.io/post/</link>
+    <link>https://albire0.github.io/post/</link>
     <description>Recent content in Posts on 我的全新 Hugo 网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 13 Nov 2022 21:14:22 +0800</lastBuildDate><atom:link href="https://Albire0.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Nov 2022 21:14:22 +0800</lastBuildDate><atom:link href="https://albire0.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>https://Albire0.github.io/post/first/</link>
+      <link>https://albire0.github.io/post/first/</link>
       <pubDate>Sun, 13 Nov 2022 21:14:22 +0800</pubDate>
       
-      <guid>https://Albire0.github.io/post/first/</guid>
-      <description>NLP课程详细设计-报告 环境准备 Windows10 Pycharm2021 python3.9 剩余的依赖由文件夹下的requirements.txt提供,为以下这些 jieba==0.42.1 keras==2.8.0 Keras_Preprocessing==1.1.2 matplotlib==3.5.2 numpy==1.21.4 pandas==1.3.5 scikit_learn==1.1.1 tqdm==4.62.3 gensim==4.1.2 数据集选用美团</description>
+      <guid>https://albire0.github.io/post/first/</guid>
+      <description>NLP课程详细设计-报告 环境准备 Windows10 Pycharm2021 python3.9 剩余的依赖由文件夹下的requirements.txt提供,为以下这些 1 2 3 4 5 6 7 8 9 jieba==0.42.1 keras==2.8.0 Keras_Preprocessing==1.1.2 matplotlib==3.5.2 numpy==1.21.4 pandas==1.3.5 scikit_learn==1.1.1</description>
     </item>
     
   </channel>

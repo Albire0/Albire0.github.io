@@ -2,8 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://Albire0.github.io/post/first/</loc><lastmod>2022-11-13T21:14:22&#43;08:00</lastmod></url><url>
-            <loc>https://Albire0.github.io/post/</loc><lastmod>2022-11-13T21:14:22&#43;08:00</lastmod></url><url>
-            <loc>https://Albire0.github.io/</loc><lastmod>2022-11-13T21:14:22&#43;08:00</lastmod></url><url>
-            <loc>https://Albire0.github.io/categories/</loc></url><url>
-            <loc>https://Albire0.github.io/tags/</loc></url></urlset>
+            <loc>https://albire0.github.io/post/first/</loc><lastmod>2022-11-13T23:32:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://albire0.github.io/post/</loc><lastmod>2022-11-13T23:32:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://albire0.github.io/</loc><lastmod>2022-11-13T23:32:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://albire0.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://albire0.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
