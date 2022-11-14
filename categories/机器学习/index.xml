@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>“机器学习” - Category - Albire0的博客</title>
+        <link>https://albire0.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+        <description>“机器学习” - Category - Albire0的博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>chcocastne@gmail.com (Albire0)</managingEditor>
+            <webMaster>chcocastne@gmail.com (Albire0)</webMaster><lastBuildDate>Sun, 13 Nov 2022 21:14:22 &#43;0800</lastBuildDate><atom:link href="https://albire0.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/" rel="self" type="application/rss+xml" /><item>
+    <title>基于LSTM的三分类情感分析系统</title>
+    <link>https://albire0.github.io/post/first/</link>
+    <pubDate>Sun, 13 Nov 2022 21:14:22 &#43;0800</pubDate>
+    <author>Albire0</author>
+    <guid>https://albire0.github.io/post/first/</guid>
+    <description><![CDATA[基于LSTM的三分类情感分析系统 史博文 2018211147 2019211315 设计流程 对于一个字，词的情感分析模型，设计实验比较字的效果]]></description>
+</item>
+</channel>
+</rss>

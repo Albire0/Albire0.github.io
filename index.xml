@@ -1,9 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>我的全新 Hugo 网站</title>
+        <title>Albire0的博客</title>
         <link>https://albire0.github.io/</link>
         <description>这是我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 13 Nov 2022 21:14:22 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>chcocastne@gmail.com (Albire0)</managingEditor>
+            <webMaster>chcocastne@gmail.com (Albire0)</webMaster><lastBuildDate>Sun, 13 Nov 2022 21:14:22 &#43;0800</lastBuildDate>
             <atom:link href="https://albire0.github.io/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>
